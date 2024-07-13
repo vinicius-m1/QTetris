@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/images"/>
+    <qresource prefix="/">
+        <file>images/blue.png</file>
+        <file>images/background_menu.png</file>
+        <file>images/green.png</file>
+        <file>images/inverted_L_shaped.png</file>
+        <file>images/line_shaped.png</file>
+        <file>images/l_piece.png</file>
+        <file>images/red.png</file>
+        <file>images/square_shaped.png</file>
+        <file>images/triangle_shaped.png</file>
+        <file>images/Untitled.png</file>
+        <file>images/Untitled_debug.png</file>
+        <file>images/white.png</file>
+        <file>images/yellow.png</file>
+    </qresource>
+</RCC>
